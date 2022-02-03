@@ -1,3 +1,5 @@
-# start
-i dont know what to say
-My name is Tao. I start to learn python in 2021.10.02
+Hello My name is Tao.
+
+I am a student in University of Michigan.
+
+I am major in Math and CS.
