@@ -1,8 +1,10 @@
 # start
 My name is Tao.
 
-I am a student in University of Michigan, major in Math and Computer Science.
+I am a student in the University of Michigan, majoring in Math and Computer Science.
 
-I am looking for intership in CS. Welcome to contact me! 
+I have passion in coding and am willing to learn more about coding!
+
+I am looking for internships in CS. Welcome to contact me! 
 
 taowe@umich.edu
